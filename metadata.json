@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Energy Dashboard",
+  "description": "A futuristic digital twin dashboard for campus energy management, featuring photovoltaic monitoring, real-time alerts, and 3D map overlays.",
+  "requestFramePermissions": []
+}
